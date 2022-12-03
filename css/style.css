@@ -7,7 +7,7 @@ text-decoration:none;
 
 body{
     font-family: 'Cardo', serif;
-    background-color: #8C694A;
+    background-color: #8c694a9b;
     background: linear-gradient 90gr( black);
     }
 
@@ -40,41 +40,40 @@ header{
 }
 
 .navegacion a{
-    color:rgb(246, 239, 239);
+    color:rgb(14, 10, 10);
 
 }
 .banner{
-    height: 80vh;
+    height: 120vh;
     background-image: url(../imagenes/Vector_de_carne_de_pollo___Vector_Premium.jpg);
     background-size: cover;
     background-attachment: fixed;
+    text-decoration: center;
 }
 
 .banner h2{
-    color: white;
+    color: rgb(250, 241, 241);
     font-size: 3rem;
     font-family:fantasy, cursive;
     padding: 1rem;
 }
 .banner h3{
-    color: white;
+    color: rgb(238, 226, 226);
     font-size: 2rem;
     font-family:fantasy, cursive;
     padding: 1rem;
 }
 
 .contenedor p{
-    color: white;
+    color: rgb(15, 11, 11);
     font-size: 2rem;
     padding: 1rem;
 }
 
 .footer {
-    background-color: white;
+    background-color: rgb(10, 6, 6);
     font-size: 6rem;
-}
-.footer{
-    background-color: white;
+
 }
 
 .carding{
@@ -83,7 +82,7 @@ header{
     flex-wrap:wrap ;
 }
 .contenidoubi {
-    color: white;
+    color: rgb(19, 15, 15);
 }
 
 #header {

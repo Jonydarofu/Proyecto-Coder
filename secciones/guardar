@@ -1,0 +1,70 @@
+<header>
+        <nav class="navegacion">
+        <a href="" class="logoheader">LA RUFINA</a>
+        <ul>
+
+        <li> <a href="index.html">INICIO</a></li>
+        <li> <a href="secciones/contactos.html">CONTACTO</a></li>
+        <li> <a href="secciones/productos.html">PRODUCTOS</a></li>
+        <li> <a href="secciones/nosotros.html">NOSOTROS</a></li>
+        <li> <a href="secciones/ubicacion.html">UBICACION</a></li>
+
+        </ul>
+        </nav>
+    </header>
+    <header>
+        <nav class="navegacion">
+            <a href="" class="logoheader">LA RUFINA</a>
+        
+        <ul>
+
+        <li> <a href="../index.html">INICIO</a></li>
+        <li> <a href="./contactos.html">CONTACTO</a></li>
+        <li> <a href="./productos.html">PRODUCTOS</a></li>
+        <li> <a href="./nosotros.html">NOSOTROS</a></li>
+        <li> <a href="./ubicacion.html">UBICACION</a></li>
+
+        </ul>
+
+        <header>
+            <nav class="navegacion">
+                <a href="" class="logoheader">LA RUFINA</a>
+            <ul>
+    
+            <li> <a href="../index.html">INICIO</a></li>
+            <li> <a href="./contactos.html">CONTACTO</a></li>
+            <li> <a href="./productos.html">PRODUCTOS</a></li>
+            <li> <a href="./nosotros.html">NOSOTROS</a></li>
+            <li> <a href="./ubicacion.html">UBICACION</a></li>
+    
+            </ul>
+            </nav>
+        </header>
+
+        <nav class="navegacion">
+            <a href="" class="logoheader">LA RUFINA</a>
+        <ul>
+
+        <li> <a href="../index.html">INICIO</a></li>
+        <li> <a href="./contactos.html">CONTACTO</a></li>
+        <li> <a href="./productos.html">PRODUCTOS</a></li>
+        <li> <a href="./nosotros.html">NOSOTROS</a></li>
+        <li> <a href="./ubicacion.html">UBICACION</a></li>
+
+        </ul>
+        </nav>
+
+        <header>
+            <nav class="navegacion">
+                <a href="" class="logoheader">LA RUFINA</a>
+            <ul>
+    
+            <li> <a href="../index.html">INICIO</a></li>
+            <li> <a href="./contactos.html">CONTACTO</a></li>
+            <li> <a href="./productos.html">PRODUCTOS</a></li>
+            <li> <a href="./nosotros.html">NOSOTROS</a></li>
+            <li> <a href="./ubicacion.html">UBICACION</a></li>
+            
+            </ul>
+            </nav>
+        </header>
