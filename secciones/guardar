@@ -1,17 +1,4 @@
-<header>
-        <nav class="navegacion">
-        <a href="" class="logoheader">LA RUFINA</a>
-        <ul>
-
-        <li> <a href="index.html">INICIO</a></li>
-        <li> <a href="secciones/contactos.html">CONTACTO</a></li>
-        <li> <a href="secciones/productos.html">PRODUCTOS</a></li>
-        <li> <a href="secciones/nosotros.html">NOSOTROS</a></li>
-        <li> <a href="secciones/ubicacion.html">UBICACION</a></li>
-
-        </ul>
-        </nav>
-    </header>
+    <--
     <header>
         <nav class="navegacion">
             <a href="" class="logoheader">LA RUFINA</a>
@@ -68,3 +55,19 @@
             </ul>
             </nav>
         </header>
+        <div class="container-fluid at-5">
+            <div class="row">
+                <div class="col">
+        <img src="imagenes/local.jpeg" alt="local" srcset="">
+        <div class="col">
+        
+                </div>    
+            </div>     
+    </div>
+    <div class="contenedor">
+        <article class="cardproductos">
+            <div class="carding">
+    
+    <img src="../imagenes/localcomercial.jpeg" alt="local comercial" srcset="">
+   
+-->
