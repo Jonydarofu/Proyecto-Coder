@@ -4,9 +4,8 @@
     @media ( max-width: 576px)
      
     @media (min-width: 990px) and (max-width: 1400px)
-} 
-
-#contenedor.carding{
+    
+    #contenedor.carding{
     margin-top: 10px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
