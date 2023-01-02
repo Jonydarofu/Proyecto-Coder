@@ -74,14 +74,8 @@ header{
     justify-content: center; 
 }
 
-.footer { 
-    background-color: rgb(10, 6, 6);
-    font-size: 6rem; 
-
-}
-
 .carding{
-    margin: 10px 20px;
+    margin: 10px 10px;
     box-shadow: 0 4px 8px lightblue, 0 6px 20px 0 black;
     float: left;
     width: 400px;
@@ -96,8 +90,13 @@ header{
 
 .piedepagina  {
     text-align: center;
-
 }
+
+.footer { 
+    background-color: rgb(10, 6, 6);
+    font-size: 6rem; 
+}
+
 .contenidoubi {
     color: rgb(19, 15, 15);
 }
@@ -113,14 +112,19 @@ header{
     list-style: none;
 }
     
-.contenidoubic {
+.ubic {
     display: contents;
+    justify-content: center;
+    text-align: center;
+}
+.mapgoogle{
+    display: flex;
+    justify-content: center;
 }
 
 .contenimg{ 
     display: flex;
     justify-content: center;
-
 }
 
 .imag3{
